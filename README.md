@@ -1,4 +1,4 @@
-#Welcome to RecPy!
+# Welcome to RecPy!
 This Git repository is an attempt to share python code for use in Recreation research for uses such as:
 
 *   ArcPy for editing, appending, and batch processing shapefiles.
